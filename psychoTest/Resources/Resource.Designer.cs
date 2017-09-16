@@ -9,9 +9,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Android.Runtime.ResourceDesignerAttribute("App11.Resource", IsApplication=true)]
+[assembly: global::Android.Runtime.ResourceDesignerAttribute("psychoTest.Resource", IsApplication=true)]
 
-namespace App11
+namespace psychoTest
 {
 	
 	

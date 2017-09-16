@@ -5,7 +5,7 @@ using System;
 using System.Collections.Generic;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
-namespace App11
+namespace psychoTest
 {
     [Activity(Label = "App11", MainLauncher = true)]
     
@@ -225,7 +225,7 @@ namespace App11
             _currentQuestion = new Question();
             List<Answer> Answer = new List<Answer>();
             answerText.Text = "решали самостоятельно, следуя своему увлечению и своим данным;";
-            answerText.Point = 4;
+            answerText.Point = 4; 
             Answer.Add(answerText);
             answerText = new Answer();
             answerText.Text = "прислушивались и к мнению своих родителей, родственников;";

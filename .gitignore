@@ -5,3 +5,8 @@
 /.vs
 /packages
 /psychoTest/obj
+/Model/bin/Debug/netstandard1.4
+/Model/obj
+/psychoTest/bin/Debug
+/TestGenerator/bin/Debug
+/TestGenerator/obj/Debug

@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.26730.15
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "psychoTest", "psychoTest\psychoTest.csproj", "{A3B35690-B797-4582-9447-87F1FFE63EB8}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Model", "Model\Model.csproj", "{5C18B7AC-8836-495A-BCA9-61BB199F20BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGenerator", "TestGenerator\TestGenerator.csproj", "{4EAA6EFF-3EE9-4543-BAD4-EA0B9EBFAE38}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +21,14 @@ Global
 		{A3B35690-B797-4582-9447-87F1FFE63EB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3B35690-B797-4582-9447-87F1FFE63EB8}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A3B35690-B797-4582-9447-87F1FFE63EB8}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{5C18B7AC-8836-495A-BCA9-61BB199F20BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C18B7AC-8836-495A-BCA9-61BB199F20BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C18B7AC-8836-495A-BCA9-61BB199F20BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C18B7AC-8836-495A-BCA9-61BB199F20BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EAA6EFF-3EE9-4543-BAD4-EA0B9EBFAE38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EAA6EFF-3EE9-4543-BAD4-EA0B9EBFAE38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EAA6EFF-3EE9-4543-BAD4-EA0B9EBFAE38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EAA6EFF-3EE9-4543-BAD4-EA0B9EBFAE38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
